@@ -84,6 +84,9 @@ reboot
 
 **Original Manual [Guide](https://qengineering.eu/overclocking-the-jetson-nano.html)**
 
+### Prebuilt Image
+A prebuilt and verified image is available for download: [Jetson Nano Prebuilt Image](https://drive.google.com/file/d/17NNdcvLa6Nu1EqoSUhlmTCcMRVE4Xdqv/view?usp=sharing)
+
 ---
 
 jtop
@@ -169,5 +172,9 @@ reboot
 ---
 
 **Оригинальная инструкция [Руководство](https://qengineering.eu/overclocking-the-jetson-nano.html)**
+
+### Готовый образ
+Доступен готовый и проверенный образ: [Jetson Nano Prebuilt Image](https://drive.google.com/file/d/17NNdcvLa6Nu1EqoSUhlmTCcMRVE4Xdqv/view?usp=sharing)
+
 
 
